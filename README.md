@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
-### My name is Bruno Dias de Amorim, I'm a FullStack Web, Game Developer and Ethical Hacker, I live in Salvador Bahia and I work at [Compass Uol](https://compass.uol/).
+### My name is Bruno Dias de Amorim, I'm a FullStack Web and Game Developer, I live in Salvador, Bahia, Brazil and I work at [Compass Uol](https://compass.uol/).
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/raw/output/github-contribution-grid-snake.svg)
 
