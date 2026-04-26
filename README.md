@@ -1,87 +1,113 @@
 <h1 align="center">Backend Architect | Distributed Systems | Cloud Engineer</h1>
 
 <p align="center">
-Building scalable, secure and high-performance systems in cloud environments.
+Designing scalable, resilient and high-performance systems for real-world production environments.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-Software Engineer with 20+ years of experience designing and building backend systems, APIs and distributed architectures.
+I am a Backend Architect with 20+ years of experience building and evolving large-scale backend systems, APIs and distributed architectures.
 
-I specialize in:
-- Scalable backend systems and APIs
-- Distributed architectures and microservices
-- Cloud-native solutions (AWS, Kubernetes)
-- Evolution of legacy systems into modern architectures
-- Performance, reliability and security by design
+My focus is engineering systems that operate under real production constraints — high traffic, scalability requirements, reliability demands and long-term maintainability.
 
-I work across the full software lifecycle — from architecture design to production deployment.
+I specialize in designing software that is:
+- Scalable under heavy load
+- Resilient to failures
+- Secure by design
+- Cloud-native and production-ready
+- Evolvable from legacy systems to modern architectures
+
+Most of my work happens in enterprise environments, within private repositories that support real production systems and business-critical operations.
 
 ---
 
-## 🧠 Core Expertise
+## 🏗️ Core Engineering Focus
 
-### Backend & Architecture
+### Distributed Systems & Architecture
+- System design and architecture at scale
+- Microservices and modular backend systems
+- Event-driven architectures
+- API design for high concurrency systems
+
+### Cloud & Infrastructure
+- AWS architecture and services
+- Kubernetes-based deployments
+- Dockerized environments
+- CI/CD pipelines and automation
+- Observability (logging, metrics, monitoring)
+
+### Backend Engineering
 - Java (Spring Boot)
 - .NET (C#)
 - Python
 - Node.js
-- Microservices & System Design
+- High-performance API development
 
-### Cloud & DevOps
-- AWS (core services, architecture design)
-- Kubernetes
-- Docker
-- CI/CD pipelines
-- Observability & monitoring
-
-### Databases & Caching
+### Data & Performance Engineering
 - PostgreSQL
 - MongoDB
 - Redis
+- Caching strategies
+- Query optimization and performance tuning
 
 ---
 
-## 🎮 Game Development (Secondary Focus)
+## 🎮 Game Systems (Secondary Expertise)
+
+I also have experience building backend systems for games and interactive applications:
 
 - Unity (C#)
 - Unreal Engine (C++)
-- Backend systems for games (multiplayer, APIs, services)
+- Multiplayer backend systems
+- Real-time communication architectures
+- Game API services
 
 ---
 
-## 🏗️ Engineering Focus
+## 🧩 Engineering Principles
 
-- High availability systems
-- Event-driven architectures
-- Scalable API design
-- System performance optimization
-- Secure-by-design development
+- Design for failure
+- Horizontal scalability over vertical scaling
+- Stateless service architecture
+- Observability-first systems
+- Security by default
+- Performance-aware design decisions
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoDyas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoDyas&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoDyas&show_icons=true" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📌 Selected Work
 
-<p align="left">
-<a href="https://www.linkedin.com/in/brunodyas/">
-  <img src="https://img.shields.io/badge/LinkedIn-brunodyas-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+> Most production systems I work on are in private enterprise repositories due to confidentiality constraints.
 
-<a href="mailto:brunodiasdeamorim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-</p>
+This profile highlights:
+- Personal engineering experiments
+- Architecture studies
+- System design explorations
+- Technical prototypes
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/brunodyas/
+- Email: brunodiasdeamorim@gmail.com
+
+---
+
+## ⚡ Final Note
+
+This profile is focused on engineering clarity, system design thinking and real-world backend architecture — not just technology lists.
