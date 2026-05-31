@@ -1,113 +1,99 @@
-<h1 align="center">Backend Architect | Distributed Systems | Cloud Engineer</h1>
+# Bruno Dias de Amorim
 
-<p align="center">
-Designing scalable, resilient and high-performance systems for real-world production environments.
-</p>
+**Backend Architect** · Distributed Systems & Cloud (AWS, Kubernetes) · Java · .NET (C#) · Python · Node.js · RoR & Laravel
 
----
+> 20+ anos construindo sistemas de produção — escaláveis, seguros e prontos para nuvem.
 
-## 🧠 About Me
-
-I am a Backend Architect with 20+ years of experience building and evolving large-scale backend systems, APIs and distributed architectures.
-
-My focus is engineering systems that operate under real production constraints — high traffic, scalability requirements, reliability demands and long-term maintainability.
-
-I specialize in designing software that is:
-- Scalable under heavy load
-- Resilient to failures
-- Secure by design
-- Cloud-native and production-ready
-- Evolvable from legacy systems to modern architectures
-
-Most of my work happens in enterprise environments, within private repositories that support real production systems and business-critical operations.
+[![GitHub](https://img.shields.io/badge/GitHub-brunodyas-181717?style=flat-square&logo=github)](https://github.com/brunodyas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brunodyas-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brunodyas/)
+[![Repos públicos](https://img.shields.io/badge/Aplicações_publicadas-29-2563eb?style=flat-square)](https://github.com/brunodyas?tab=repositories)
 
 ---
 
-## 🏗️ Core Engineering Focus
+## Sobre
 
-### Distributed Systems & Architecture
-- System design and architecture at scale
-- Microservices and modular backend systems
-- Event-driven architectures
-- API design for high concurrency systems
+Arquiteto de backend e engenheiro de sistemas distribuídos com foco em **arquitetura em escala**, **APIs de alta concorrência**, **Kubernetes**, **AWS** e evolução de sistemas legados para arquiteturas cloud-native.
 
-### Cloud & Infrastructure
-- AWS architecture and services
-- Kubernetes-based deployments
-- Dockerized environments
-- CI/CD pipelines and automation
-- Observability (logging, metrics, monitoring)
-
-### Backend Engineering
-- Java (Spring Boot)
-- .NET (C#)
-- Python
-- Node.js
-- High-performance API development
-
-### Data & Performance Engineering
-- PostgreSQL
-- MongoDB
-- Redis
-- Caching strategies
-- Query optimization and performance tuning
+Este perfil reúne **aplicações completas** desenvolvidas e publicadas publicamente — cada repositório inclui código, README com instalação e página de **Créditos** no menu do projeto.
 
 ---
 
-## 🎮 Game Systems (Secondary Expertise)
+## Portfólio — 29 aplicações publicadas
 
-I also have experience building backend systems for games and interactive applications:
+Todas com repositório público, documentação e entrega funcional da fábrica **Djenus**.
 
-- Unity (C#)
-- Unreal Engine (C++)
-- Multiplayer backend systems
-- Real-time communication architectures
-- Game API services
+### Saúde, clínicas e equipamentos
+
+- [**Plataforma de Gestão Avançada de Equipamentos de Saúde com IA**](https://github.com/brunodyas/advanced-health-equipment-management-ai) — [`advanced-health-equipment-management-ai`](https://github.com/brunodyas/advanced-health-equipment-management-ai)
+- [**AutoClinicAI**](https://github.com/brunodyas/autoclinicai) — [`autoclinicai`](https://github.com/brunodyas/autoclinicai)
+- [**Plataforma de automação operacional para clínicas e serviços locais**](https://github.com/brunodyas/automation-clinics-services) — [`automation-clinics-services`](https://github.com/brunodyas/automation-clinics-services)
+- [**Plataforma de automação operacional para clínicas**](https://github.com/brunodyas/clinic-automation-platform) — [`clinic-automation-platform`](https://github.com/brunodyas/clinic-automation-platform)
+- [**Plataforma de automação operacional para clínicas e hospitais**](https://github.com/brunodyas/clinic-automation-platform-plus) — [`clinic-automation-platform-plus`](https://github.com/brunodyas/clinic-automation-platform-plus)
+- [**Automação operacional para clínicas**](https://github.com/brunodyas/clinic-automation-suite) — [`clinic-automation-suite`](https://github.com/brunodyas/clinic-automation-suite)
+- [**Automação operacional para clínicas e serviços locais**](https://github.com/brunodyas/clinic-service-automation) — [`clinic-service-automation`](https://github.com/brunodyas/clinic-service-automation)
+- [**Plataforma de fluxo de trabalho inteligente para hospitais semiconscientes**](https://github.com/brunodyas/intelligent-hospital-workflow-semiconscious) — [`intelligent-hospital-workflow-semiconscious`](https://github.com/brunodyas/intelligent-hospital-workflow-semiconscious)
+- [**Plataforma de Gestão de Atendimento Inteligente**](https://github.com/brunodyas/intelligent-patient-appointment-management) — [`intelligent-patient-appointment-management`](https://github.com/brunodyas/intelligent-patient-appointment-management)
+
+### Copilot & automação operacional com IA
+
+- [**Copiloto para Operação de Equipamentos de Saúde com IA Avançada**](https://github.com/brunodyas/copilot-advanced-health-equipment-operation-ai) — [`copilot-advanced-health-equipment-operation-ai`](https://github.com/brunodyas/copilot-advanced-health-equipment-operation-ai)
+- [**Copiloto para Automatização Operacional de Clínicas e Serviços Locais**](https://github.com/brunodyas/copilot-clinic-automation) — [`copilot-clinic-automation`](https://github.com/brunodyas/copilot-clinic-automation)
+- [**Plataforma de Copiloto para Automação Operacional de Clínicas e Serviços Locais**](https://github.com/brunodyas/copilot-clinic-local-operations-automation) — [`copilot-clinic-local-operations-automation`](https://github.com/brunodyas/copilot-clinic-local-operations-automation)
+- [**Plataforma de Copiloto para Operação de Equipamentos de Saúde com IA**](https://github.com/brunodyas/copilot-health-equipment-operation-ai-enhanced) — [`copilot-health-equipment-operation-ai-enhanced`](https://github.com/brunodyas/copilot-health-equipment-operation-ai-enhanced)
+- [**Plataforma de Copiloto para Gestão de Voluntariado Inteligente**](https://github.com/brunodyas/copilot-intelligent-volunteer-management) — [`copilot-intelligent-volunteer-management`](https://github.com/brunodyas/copilot-intelligent-volunteer-management)
+- [**Plataforma de Copiloto para Automação Operacional de Serviços Locais**](https://github.com/brunodyas/copilot-local-service-automation) — [`copilot-local-service-automation`](https://github.com/brunodyas/copilot-local-service-automation)
+- [**Plataforma de Copiloto para Operação de Equipas Remotas**](https://github.com/brunodyas/copilot-remote-team-operation) — [`copilot-remote-team-operation`](https://github.com/brunodyas/copilot-remote-team-operation)
+- [**Plataforma de Automação Operacional para Serviços Locais**](https://github.com/brunodyas/local-service-automation) — [`local-service-automation`](https://github.com/brunodyas/local-service-automation)
+- [**Plataforma de Gestão de Equipas Remotas com Automação**](https://github.com/brunodyas/remote-team-management-automation) — [`remote-team-management-automation`](https://github.com/brunodyas/remote-team-management-automation)
+
+### Contratos, jurídico e conformidade
+
+- [**Plataforma de Auditoria Inteligente de Contratos e Conformidade**](https://github.com/brunodyas/intelligent-contract-audit-compliance) — [`intelligent-contract-audit-compliance`](https://github.com/brunodyas/intelligent-contract-audit-compliance)
+- [**Assistente jurídico para documentos**](https://github.com/brunodyas/legal-doc-assistant) — [`legal-doc-assistant`](https://github.com/brunodyas/legal-doc-assistant)
+
+### Marketplace, varejo e serviços locais
+
+- [**Plataforma de marketplace de serviços locais**](https://github.com/brunodyas/local-services-marketplace-3) — [`local-services-marketplace-3`](https://github.com/brunodyas/local-services-marketplace-3)
+- [**Plataforma de automação operacional para varejo**](https://github.com/brunodyas/retail-automation-platform) — [`retail-automation-platform`](https://github.com/brunodyas/retail-automation-platform)
+
+### Colaboração, mensageria e fluxo de trabalho
+
+- [**Aura Support AI**](https://github.com/brunodyas/aura-support-ai) — [`aura-support-ai`](https://github.com/brunodyas/aura-support-ai)
+- [**FluxoCollab**](https://github.com/brunodyas/fluxocollab-workflow) — [`fluxocollab-workflow`](https://github.com/brunodyas/fluxocollab-workflow)
+- [**Messenger**](https://github.com/brunodyas/messenger) — [`messenger`](https://github.com/brunodyas/messenger)
+- [**Synapse Flow**](https://github.com/brunodyas/synapse-flow) — [`synapse-flow`](https://github.com/brunodyas/synapse-flow)
+- [**Synapse Flow**](https://github.com/brunodyas/synapse-flow-2) — [`synapse-flow-2`](https://github.com/brunodyas/synapse-flow-2)
+
+### Plataformas & engenharia de software
+
+- [**Api Com Cache Fila Ass Ncrona E Limita O**](https://github.com/brunodyas/api-com-cache-fila-ass-ncrona-e-limita-o) — [`api-com-cache-fila-ass-ncrona-e-limita-o`](https://github.com/brunodyas/api-com-cache-fila-ass-ncrona-e-limita-o)
+- [**LMS corporativo para capacitação**](https://github.com/brunodyas/corp-learning-lms) — [`corp-learning-lms`](https://github.com/brunodyas/corp-learning-lms)
 
 ---
 
-## 🧩 Engineering Principles
+## Stack & princípios
 
-- Design for failure
-- Horizontal scalability over vertical scaling
-- Stateless service architecture
-- Observability-first systems
-- Security by default
-- Performance-aware design decisions
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoDyas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoDyas&show_icons=true" />
-</p>
+| Área | Tecnologias e práticas |
+|------|-------------------------|
+| Backend | Java (Spring Boot), .NET (C#), Python, Node.js, APIs REST |
+| Dados | PostgreSQL, MongoDB, Redis, filas, cache |
+| Cloud | AWS, Kubernetes, Docker, CI/CD |
+| Arquitetura | Microserviços, event-driven, observabilidade, segurança por defeito |
 
 ---
 
-## 📌 Selected Work
+## Repositórios legados & experimentos
 
-> Most production systems I work on are in private enterprise repositories due to confidentiality constraints.
-
-This profile highlights:
-- Personal engineering experiments
-- Architecture studies
-- System design explorations
-- Technical prototypes
+Projetos anteriores (jogos, mobile, estudos) continuam disponíveis no perfil — veja a aba [Repositories](https://github.com/brunodyas?tab=repositories).
 
 ---
 
-## 📫 Connect
+## Contato
 
-- LinkedIn: https://www.linkedin.com/in/brunodyas/
-- Email: brunodiasdeamorim@gmail.com
+- **LinkedIn:** [linkedin.com/in/brunodyas](https://www.linkedin.com/in/brunodyas/)
+- **GitHub:** [https://github.com/brunodyas](https://github.com/brunodyas)
+- **E-mail:** brunodiasdeamorim@gmail.com
 
 ---
 
-## ⚡ Final Note
-
-This profile is focused on engineering clarity, system design thinking and real-world backend architecture — not just technology lists.
+*Perfil focado em clareza de engenharia, design de sistemas e entregas reais em produção.*
